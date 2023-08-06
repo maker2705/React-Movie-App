@@ -1,3 +1,37 @@
+## ReactProjects
+This repository houses a diverse collection of my React projects, showcasing a progression from fundamental concepts to sophisticated applications. It serves as a portfolio of my React development journey, encompassing projects of varying complexity and scope.
+
+
+
+# Table of Contents
+   **Project 1 - Movies web app**
+
+
+# Description
+In this repository, you'll find a variety of React projects that I have worked on to learn and practice different aspects of React development. Each project folder contains a separate README file with details about the project and its features.
+
+## Projects List
+
+ **Project 1 - Basic Movie App**
+  
+  
+# Description: 
+    The Basic Movie App is a simple React application that allows users to browse and discover movies. It fetches movie data from an external API and displays   movie details such as title, overview, and poster images.
+
+
+
+
+
+# Getting Started
+Each project folder contains its own **README** file with instructions on how to run the project locally. You can follow the steps provided in the specific project's README to set up and run the project on your local machine.
+
+# Contributions
+**At this time, I am not accepting contributions to this repository. It is intended for personal use and to showcase my individual projects.**
+
+# Usage
+Feel free to explore the projects and use them as a reference or learning tool. However, please note that the code and projects are provided as-is, and I am not responsible for any issues that may arise from using or modifying them.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
